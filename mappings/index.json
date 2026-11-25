@@ -1,0 +1,14 @@
+{
+  "schema": "mangaalpha-mapping-index-v1",
+  "version": "2026.11.25.1",
+  "updatedAt": "2026-11-25T01:42:50Z",
+  "packs": [
+    {
+      "id": "community-bangumi",
+      "file": "community-bangumi.ndjson",
+      "downloadUrl": "https://raw.githubusercontent.com/BlackMuseCode/mangaalpha-metadata-repo/main/mappings/community-bangumi.ndjson",
+      "entryCount": 2,
+      "sha256": "9569d604749076efdde39a23b9839bf2e915a04b73a380aa65ea109c2529e487"
+    }
+  ]
+}
